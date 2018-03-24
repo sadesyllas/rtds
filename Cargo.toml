@@ -1,0 +1,6 @@
+[package]
+name = "rtds"
+version = "0.1.0"
+authors = ["Spyridon Alfredos Desyllas <sadesyllas@gmail.com>"]
+
+[dependencies]
